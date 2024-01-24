@@ -364,7 +364,7 @@ h3 {
 
 /* FOOTER CSS */
 footer {
-    position: fixed;
+    position: static;
     bottom: 0;
 }
 
@@ -407,6 +407,7 @@ footer {
     font: normal 36px 'Cookie', cursive;
     font-family: 'Ubuntu', sans-serif;
     margin: 0;
+    text-align: left !important;
 }
 
 
